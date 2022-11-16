@@ -43,5 +43,8 @@ func main() {
 	engine.Start()
 }
 ```
+That will be enough. Now add texture and position to the object creation function. Everything should work. It's not that hard.
 
+# A few more words
 
+I'm not an expert or anything like that. I'm just an amateur, and I'm sure that anyone who really thinks in good architectures can call my code garbage. I'll be glad to have an adequate critic, and if my shit is useful to someone. By the way, in the repository in the file doc.txt the functions of the engine and how to use everything are described in detail. True, this file is written in Russian, but the translator has not been canceled.
